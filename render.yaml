@@ -12,4 +12,3 @@ services:
         value: "admin"
       - key: N8N_BASIC_AUTH_PASSWORD
         value: "password"
-     
